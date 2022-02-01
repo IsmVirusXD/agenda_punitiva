@@ -1,0 +1,28 @@
+| Pedido | -----------------------------------------------------------------
+
+Inicio do Mes adiciono um monte de informação e apartir dai     
+o programa vai me lembrando todo o dia do que fazer e sempre 
+vai me entragar uma punição sempre que algum expirarQuero 
+tambem poder inserir as Punições
+
+| Funcionalidades | --------------------------------------------------------
+
+- [OK] Adicionar Elemento: Titulo + Texto + Data de Conclusão
+- [OK] Sistema de Data: Comparando Data Atual com a Data Presetada
+- [OK] Remover Elemento: Remover um Item
+- [OK] Salva: Salvar o Sistema em algum lugar para que possamos importar novamente quando o progrmaa inicializar
+- Sistema de Punição: Um Gerador de Aleatorio de Punições pre Cadastradas
+- [OK] Punições: Titulo + Texto 
+- Exibir: Exibir as Tarefas que serão geradas
+
+Extra: Relatorio do que foi feito no Dia 
+
+|Observações| ---------------------------------------------------------------
+
+- A data de Entrada na verdade é a Data da Tarefa que vai ser exebir no Dia
+
+| Telas | -------------------------------------------------------------------
+
+- Configuration
+- Visualização
+- Cadastro
